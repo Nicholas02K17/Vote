@@ -1,0 +1,25 @@
+{
+  "name": "vote_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start": "node api/server.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicholas02K17/Vote.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicholas02K17/Vote/issues"
+  },
+  "homepage": "https://github.com/Nicholas02K17/Vote#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.1"
+  }
+}
